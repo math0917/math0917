@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6CADDF&height=100&section=header&text=KIM WON PYO&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ff0000&height=100&section=header&text=KIM WON PYO&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
   
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmath0917%2Fhit-counter&count_bg=%236414AC&title_bg=%23D11212&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
