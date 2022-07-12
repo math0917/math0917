@@ -9,7 +9,7 @@
 <h4 align="center" >Tech Stack</h4>
 
 <div align="center"><img src="https://img.shields.io/badge/Python-red?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-blueviolet?style=flat-square&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/Django-ff69b4?style=flat-square&logo=Django&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/go-99E5994?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> 
 
 <h4 align="center">Contact</h4>
 <div align="center"><a href=mailto:mathematics0917@gmail.com><img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href=mailto:math0917@naver.com><img src="https://img.shields.io/badge/Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a> <a href=https://www.instagram.com/1_ticket><img src="https://img.shields.io/badge/Instagram-9cf?style=flat-square&logo=Instagram&logoColor=white"/></a></div>
